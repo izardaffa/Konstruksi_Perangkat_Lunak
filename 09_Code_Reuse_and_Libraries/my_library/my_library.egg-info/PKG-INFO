@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: my_library
+Version: 0.1
+Summary: A simple example library
+Author: Nizar Daffa Maulana
+Author-email: izardev@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
